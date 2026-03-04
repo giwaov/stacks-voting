@@ -23,6 +23,9 @@ export const metadata: Metadata = {
     title: "Stacks Voting",
     description: "Create and vote on decentralized polls secured by Bitcoin",
   },
+  other: {
+    "talentapp:project_verification": "02d6dba03b22fcbd3b75f6ea919c5b08dc6098a6ad7029a9ee66bbb20b961d5efff9b500b7693240a3001176777f7543bcbea719a38953387abf0ab0ab680501",
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
