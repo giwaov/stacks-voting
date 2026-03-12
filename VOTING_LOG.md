@@ -94,3 +94,4 @@ Transaction history for Stacks Voting contract.
 - [2026-03-12 17:40:39] Updated poll - TX:TUYW801CGS
 - [2026-03-12 17:40:39] Logged vote event - TX:I56UELWRY8
 - [2026-03-12 17:40:40] Updated poll - TX:15IYO7DTAN
+- [2026-03-12 17:40:42] Logged vote event - TX:O1GHTXS4AV
