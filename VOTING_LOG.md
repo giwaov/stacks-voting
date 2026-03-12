@@ -173,3 +173,4 @@ Transaction history for Stacks Voting contract.
 - [2026-03-12 17:42:25] Validated vote - TX:SMPHUZYA8O
 - [2026-03-12 17:42:27] Validated vote - TX:IJT3R4SOYP
 - [2026-03-12 17:42:28] Validated vote - TX:XI4SB69ANO
+- [2026-03-12 17:42:29] Updated poll - TX:QEKM9I1D3N
