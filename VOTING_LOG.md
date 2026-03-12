@@ -90,3 +90,4 @@ Transaction history for Stacks Voting contract.
 - [2026-03-12 17:40:35] Checked poll state - TX:73UMWNOF14
 - [2026-03-12 17:40:35] Logged vote event - TX:71WIQ9V4AP
 - [2026-03-12 17:40:37] Verified ballot - TX:ZKV97IJA1X
+- [2026-03-12 17:40:38] Validated vote - TX:B4590QWNKC
