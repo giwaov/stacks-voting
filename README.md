@@ -5,6 +5,7 @@
 **Decentralized on-chain polls and governance on Stacks (Bitcoin L2)**
 
 [![Live on Mainnet](https://img.shields.io/badge/Stacks-Mainnet-brightgreen?logo=bitcoin)](https://explorer.hiro.so/address/SP3E0DQAHTXJHH5YT9TZCSBW013YXZB25QFDVXXWY.voting-v2?chain=mainnet)
+[![npm downloads](https://img.shields.io/npm/dw/stacks-voting-sdk?color=orange&label=npm%20downloads)](https://www.npmjs.com/package/stacks-voting-sdk)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)](https://nextjs.org/)
