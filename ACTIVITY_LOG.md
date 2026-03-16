@@ -309,3 +309,8 @@
 - perf: performance improvement for loading states
 - Session: k5zejs
 - Build: 1773686263554
+
+## 2026-03-16T18:37:50.672Z
+- fix: fix bug for accessibility
+- Session: t7c6ce
+- Build: 1773686270672
