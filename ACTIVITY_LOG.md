@@ -19,3 +19,8 @@
 - 2026-03-16T18:09:48.659Z: feat: add new feature for caching
 
 - 2026-03-16T18:09:53.320Z: style: code style update for error handling
+
+## 2026-03-16T18:11:35.559Z
+- docs: update documentation for contract calls
+- Session: m6jzb
+- Build: 1773684695559
