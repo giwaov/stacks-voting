@@ -264,3 +264,8 @@
 - fix: fix bug for loading states
 - Session: lg051r
 - Build: 1773685978146
+
+## 2026-03-16T18:33:05.311Z
+- docs: update documentation for API endpoints
+- Session: uj55z
+- Build: 1773685985311
