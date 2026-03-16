@@ -1,10 +1,13 @@
 {
-  "name": "stacks-voting",
+  "name": "@giwaov/stacks-voting",
   "version": "1.0.0",
   "description": "Decentralized on-chain polls on Stacks blockchain - create and vote on proposals",
   "author": "giwaov",
   "license": "MIT",
   "keywords": ["stacks", "blockchain", "voting", "polls", "bitcoin", "web3", "clarity", "dao"],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/giwaov/stacks-voting.git"
