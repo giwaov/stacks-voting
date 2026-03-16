@@ -214,3 +214,8 @@
 - fix: fix bug for loading states
 - Session: 54zdrz
 - Build: 1773685910902
+
+## 2026-03-16T18:31:55.484Z
+- perf: performance improvement for contract calls
+- Session: didj5
+- Build: 1773685915484
