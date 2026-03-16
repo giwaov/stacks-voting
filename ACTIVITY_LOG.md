@@ -119,3 +119,8 @@
 - feat: add new feature for loading states
 - Session: 0cpul9
 - Build: 1773685618076
+
+## 2026-03-16T18:27:08.035Z
+- docs: update documentation for error handling
+- Session: 2fbjp
+- Build: 1773685628035
