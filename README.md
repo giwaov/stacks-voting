@@ -4,11 +4,13 @@
 
 **Decentralized on-chain polls and governance on Stacks (Bitcoin L2)**
 
-[![Live on Mainnet](https://img.shields.io/badge/Stacks-Mainnet-brightgreen?logo=bitcoin)](https://explorer.hiro.so/address/SP3E0DQAHTXJHH5YT9TZCSBW013YXZB25QFDVXXWY.voting-v2?chain=mainnet)
-[![npm downloads](https://img.shields.io/npm/dw/stacks-voting-sdk?color=orange&label=npm%20downloads)](https://www.npmjs.com/package/stacks-voting-sdk)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)](https://nextjs.org/)
+[![npm version](https://img.shields.io/npm/v/@giwaov/stacks-voting?style=for-the-badge)](https://www.npmjs.com/package/@giwaov/stacks-voting)
+[![Build Status](https://github.com/giwaov/stacks-voting/actions/workflows/ci.yml/badge.svg)](https://github.com/giwaov/stacks-voting/actions/workflows/ci.yml)
+[![Live on Mainnet](https://img.shields.io/badge/Stacks-Mainnet-brightgreen?style=for-the-badge&logo=bitcoin)](https://explorer.hiro.so/address/SP33C21DH86NQ56RYYY69CGD1146H4E5NHNM32W5P.voting-v5?chain=mainnet)
+[![npm downloads](https://img.shields.io/npm/dm/@giwaov/stacks-voting?style=for-the-badge&color=orange)](https://www.npmjs.com/package/@giwaov/stacks-voting)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen?style=for-the-badge)](#tests)
 
 [**🚀 Try Demo**](https://stacks-voting.vercel.app) · [**📜 View Contract**](https://explorer.hiro.so/address/SP3E0DQAHTXJHH5YT9TZCSBW013YXZB25QFDVXXWY.voting-v2?chain=mainnet) · [**📖 Docs**](docs/)
 
