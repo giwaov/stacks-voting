@@ -1,0 +1,10 @@
+;; Raffle v1
+(define-data-var ticket-count uint u0)
+(define-map tickets uint principal)
+(define-read-only (get-ticket (id uint)) (map-get? tickets id))
+(define-read-only (get-total-tickets) (var-get ticket-count))
+(define-public (buy-ticket)
+  (let ((id (var-get ticket-count)))
+    (map-set tickets id tx-sender)
+    (var-set ticket-count (+ id u1))
+    (ok id)))

@@ -1,0 +1,11 @@
+;; Escrow v1
+(define-constant err-not-found (err u100))
+(define-data-var escrow-count uint u0)
+(define-map escrows uint { from: principal, to: principal, amount: uint, released: bool })
+(define-read-only (get-escrow (id uint)) (map-get? escrows id))
+(define-public (create (to principal) (amount uint))
+  (let ((id (var-get escrow-count)))
+    (try! (stx-transfer? amount tx-sender (as-contract tx-sender)))
+    (map-set escrows id { from: tx-sender, to: to, amount: amount, released: false })
+    (var-set escrow-count (+ id u1))
+    (ok id)))

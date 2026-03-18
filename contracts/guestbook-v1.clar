@@ -1,0 +1,10 @@
+;; Guestbook v1
+(define-data-var entries uint u0)
+(define-map messages uint { sender: principal, msg: (string-utf8 100) })
+(define-read-only (get-message (id uint)) (map-get? messages id))
+(define-read-only (get-entry-count) (var-get entries))
+(define-public (sign (msg (string-utf8 100)))
+  (let ((id (var-get entries)))
+    (map-set messages id { sender: tx-sender, msg: msg })
+    (var-set entries (+ id u1))
+    (ok id)))
