@@ -1,0 +1,29 @@
+{
+  "name": "@stacksnpmv/stacks-tip-jar",
+  "version": "1.0.2",
+  "description": "STX tip jar smart contract integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Build complete\"",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@stacks/transactions": "^6.9.0",
+    "@stacks/network": "^6.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/giwaov/stacks-voting.git"
+  },
+  "keywords": [
+    "stacks",
+    "bitcoin",
+    "defi",
+    "clarity",
+    "stx",
+    "web3"
+  ],
+  "author": "stacksnpmv",
+  "license": "MIT"
+}
